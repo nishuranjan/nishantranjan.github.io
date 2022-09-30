@@ -67,6 +67,8 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+# theme: owner/name
+remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -76,10 +78,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll_plugins # plugins to add using Jekyll gem
-
-# theme: owner/name
-remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # Exclude these files from your production _site
 exclude:
