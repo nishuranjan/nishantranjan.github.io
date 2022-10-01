@@ -23,7 +23,7 @@ Remember, these and any good brain exercises are novel and complex.
 
 Neurobic exercises
 
-1. Switch Hands
+# 1. Switch Hands
 
 If you are right-handed, try using your left hand to do things like brushing your teeth, eating, and using your computer mouse.
 
@@ -31,13 +31,13 @@ Using your non-dominant hand results in increased brain activity.
 
 This can be very hard at first which is why it gives your brain a good workout.
 
-2. Eat with Chopsticks
+# 2. Eat with Chopsticks
 
 This will force you to eat mindfully which is good for your brain, digestion and calorie consumption.
 
 (If you’re already good at this, use your non-dominant hand instead.)
 
-3. Do Chores with Your Eyes Closed
+# 3. Do Chores with Your Eyes Closed
 
 When taking a shower, washing your hair, or sorting laundry, try doing it with your eyes closed.
 
@@ -45,7 +45,7 @@ This will force your brain to use new neural pathways.
 
 Obviously, don’t do anything with your eyes closed that could put you or others in danger.
 
-4. Do Things Upside Down or Backwards
+# 4. Do Things Upside Down or Backwards
 
 No worries, you don’t have to stand on your head for this one.
 
@@ -61,7 +61,7 @@ You can also hang clocks or calendars upside down.
 
  Or you can channel your inner Leonardo da Vinci and try mastering the art of writing backwards, known as mirror writing.
 
- 5. Read Books Aloud
+# 5. Read Books Aloud
 
 Take turns reading and listening to a book with your significant other, a friend, or a child.
 
@@ -71,7 +71,7 @@ Take turns reading and listening to a book with your significant other, a friend
 
  One of the earliest demonstrations of brain imaging clearly showed three distinct brain regions lighting up when the same word was read, spoken, or heard.
 
- 6. Take New Routes
+# 6. Take New Routes
 
 On a routine commute, your brain is on autopilot and gets very little stimulation.
 
@@ -83,7 +83,7 @@ On a routine commute, your brain is on autopilot and gets very little stimulatio
 
  You can take new routes when walking, biking, or riding public transportation.
 
-7. Simultaneously Use All Your Senses
+# 7. Simultaneously Use All Your Senses
 
 Try activities that simultaneously engage all your senses.
 
@@ -93,7 +93,7 @@ One of his favorite examples is shopping at a farmer’s market where you can lo
 
 Being sociable and talking with the farmer who grew your food provides additional brain stimulation.
 
-8. Try New Things
+# 8. Try New Things
 
 Do things you’ve never done before.
 
@@ -111,7 +111,7 @@ Novel experiences trigger the release of dopamine, the “motivation” neurotra
 
 It also stimulates the creation of new neurons.
 
-9. Challenge Yourself with Mastery
+# 9. Challenge Yourself with Mastery
 
 Learning something new stimulates brain activity.
 
@@ -123,7 +123,7 @@ So once you master something, challenge yourself with the next level of difficul
 
 For this reason, pursuits like learning languages, playing musical instruments, or chess are ideal brain exercises because there is always more to learn.
 
-10. Do Things the Hard Way
+# 10. Do Things the Hard Way
 
 The most obvious way to do things the hard way is to stop relying on technology.
 
@@ -139,7 +139,7 @@ They must memorize 25,000 streets and 20,000 landmarks to get their license.
 
 Research found that the hippocampus, the part of the brain responsible for storing and organizing memories, in a typical London cabbie is significantly larger than average.
 
-11. Connect With Different People
+# 11. Connect With Different People
 
 Any time you connect with others, you expose yourself to new ideas and other ways of thinking about things.
 
@@ -151,7 +151,7 @@ This opens you up to new perspectives and ideas.
 
 This challenge to your current way of thinking stimulates mental growth.
 
-12. Start Meditating
+# 12. Start Meditating
 
 It’s estimated that over 18 million Americans meditate.
 
@@ -179,7 +179,7 @@ Over 1,000 published studies have demonstrated the health benefits of meditation
 
 The brain benefits of meditation include stress reduction, improved memory, learning ability and mood, increased focus and attention, and even reversal of brain atrophy.
 
-13. Get Physical Exercise
+# 13. Get Physical Exercise
 
 No discussion about brain exercise would be complete without emphasizing how important physical exercise is for the brain.
 
@@ -199,7 +199,7 @@ Exercising for brain health doesn’t need to be strenuous.
 
 Walking is particularly beneficial for the brain as are exercises with a strong mind-body connection like yoga and tai chi.
 
-14. Take Up a Creative Hobby
+# 14. Take Up a Creative Hobby
 
 Craft hobbies may not be high art, but they are finally getting more attention for another reason.
 
@@ -217,20 +217,21 @@ If you’re like the average American, you spend 10 hours every day staring at s
 
 Carve out a little time to try one of these brain-boosting hobbies instead:
 
-camping
-craft hobbies of all kinds
-creating any form of art
-creative writing
-dancing
-gardening
-geocaching
-learning a second language
-martial arts
-playing a musical instrument
-playing chess or Scrabble
-scrapbooking
-traveling
-15. Use Apps that Exercise Your Brain in Unexpected Ways
+- camping
+- craft hobbies of all kinds
+- creating any form of art
+- creative writing
+- dancing
+- gardening
+- geocaching
+- learning a second language
+- martial arts
+- playing a musical instrument
+- playing chess or Scrabble
+- scrapbooking
+- traveling
+
+# 15. Use Apps that Exercise Your Brain in Unexpected Ways
 
 I know, I’ve been telling you to put down your electronics a little more.
 
@@ -260,7 +261,7 @@ And there’s a version to help you brush up on your English if it’s not your 
 
 At Chess.com you can learn or master chess either on your computer or phone.
 
-Brain Exercises: The Bottom Line
+## Brain Exercises: The Bottom Line
 
 Your brain thrives on variety to keep those synapses firing.
 

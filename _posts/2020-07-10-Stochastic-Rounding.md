@@ -19,7 +19,7 @@ Examples
 
 Here is the code snippet, i wrote in python:
 
-import numpy as np
+`import numpy as np
 
 
 def sround(input):
@@ -30,10 +30,11 @@ def sround(input):
     ## return our new value
     result = int(np.trunc(input)) + int(adj)
     return result
+`
 
 To test this run the below snippet:
 
-a = 0
+`a = 0
 for i in range(1, 100):
     a+=sround(1.3)
-print(a)
+print(a)`

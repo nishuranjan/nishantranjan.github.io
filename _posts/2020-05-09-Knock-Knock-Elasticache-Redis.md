@@ -30,17 +30,17 @@ redis-cli -c -h 'elasticache redis endpoint' -p 6379 --scan --pattern '*hello*'
 nranjan@ip-xxx-xx-xxx-79:~$ redis-cli -c -h 'elasticache redis endpoint' -p 6379
 
 
-## Other than above if want to see what's happening with memory usage, clients connected, and so forth, go with the below command:
+# Other than above if want to see what's happening with memory usage, clients connected, and so forth, go with the below command:
 
 redis-cli -c -h 'elasticache redis endpoint' -p 6379 --stat
 
-## If you want to print all the commands received by a Redis instance, go with the below command:
+# If you want to print all the commands received by a Redis instance, go with the below command:
 
 redis-cli -c -h 'elasticache redis endpoint' -p 6379 monitor
 
 Last but not the least.
 
-## To monitoring the latency of Redis instances, go with the below command:
+# To monitoring the latency of Redis instances, go with the below command:
 
 redis-cli -c -h 'elasticache redis endpoint' -p 6379 --latency
 
