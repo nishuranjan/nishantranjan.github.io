@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### About Me
+## Who Am I?
 
 I am Data Enthusiast. I want to actively participate in an end-to-end Data project, meeting the business expectations of your customers covering all phases from data acquisition, storage, processing of massive amounts of data, work together with your Data Engineers, Cloud engineer and Data Architects.
 
@@ -26,6 +24,6 @@ I conducted and lead several machine learning projects such as processing end-to
 
 I love the challenges of growing startups and I currently lead product development projects using data.
 
-### Contact me
+## Contact me
 
 [py.nishant@gmail.com](mailto:py.nishant@gmail.com)
