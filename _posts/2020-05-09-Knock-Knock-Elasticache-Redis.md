@@ -3,6 +3,8 @@ layout: post
 title: Knock knock ... Elasticache Redis
 ---
 
+Let's play with Elasticache Redis in AWS...
+
 - SSH your EC2 instance (Ubuntu 18.04)
 
 - Install redis-cli using command sudo apt install redis-tools
