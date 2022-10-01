@@ -25,17 +25,10 @@ import numpy as np
 def sround(input):
     q = np.absolute(input-np.trunc(input))
     adj = np.random.choice([0,1], size = 1, p = [1-q, q])
-
-
     if(input < 0):
         return 1
-
-
     ## return our new value
-
     result = int(np.trunc(input)) + int(adj)
-    
-    
     return result
 
 To test this run the below snippet:
