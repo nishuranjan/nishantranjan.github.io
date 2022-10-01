@@ -28,8 +28,7 @@ redis-cli -c -h 'elasticache redis endpoint' -p 6379 --scan --pattern '*hello*'
 - If you want to see all the keys available in the redis endpoint, then go with the below command:
 
 nranjan@ip-xxx-xx-xxx-79:~$ redis-cli -c -h 'elasticache redis endpoint' -p 6379
-'elasticache redis endpoint':6379> keys *
-- ":1:hellofriends"
+
 
 ## Other than above if want to see what's happening with memory usage, clients connected, and so forth, go with the below command:
 
