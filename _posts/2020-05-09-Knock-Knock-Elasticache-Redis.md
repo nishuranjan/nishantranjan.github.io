@@ -9,7 +9,7 @@ title: Knock knock ... Elasticache Redis
 
 - Verify the correct redis endpoint.
 
-<elasticache redis endpoint> and port 6379
+'<elasticache redis endpoint>' and port 6379
 
 - Go to redis-cli on the above redis endpoint. In our case it is like
 
